@@ -1,0 +1,67 @@
+body{
+    color:black;
+    text-align: center;
+    background-image: url(../futebol.jpeg);
+}
+nav{
+     background-color:rgb(234, 236, 243);
+     background: radial-gradient(circle, rgb(100, 103, 117) 50%, rgba(252,106,70,0) 100%);
+     text-decoration:none;
+     text-align:center;
+}
+
+.f {
+   color: black;
+  
+}
+
+img{
+   width: 300px;
+   margin-rigt:300px
+
+}
+ul {
+    color:white;
+    text-decoration: none;
+    margin:40px;
+    display: inline-block;
+    padding-right: 4px;
+    
+    }
+   li{
+      list-style-type: none;
+      text-align: center;
+      display: inline-block;
+    padding-right: 40px;
+   }
+
+     a {
+      color:white;
+      text-decoration: none;
+     }
+     form {
+      background:rgba(132, 146, 137, 0.541);
+        margin: 20px;
+        weight: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+     }
+     input{
+        padding-left:50px;
+        padding-right:50px; 
+        text-align: center;
+         }
+       div{
+         background:rgba(132, 146, 137, 0.541);
+         margin-left: 35%;
+         margin-right: 35%;
+         color:white;
+       }
+       .texto{
+         padding: 100px;
+       }
+       .rob{
+         padding: 400px;
+       }
+
+  
